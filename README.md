@@ -1,6 +1,16 @@
 # Awesome Adversarial Examples for Deep Learning
 A list of amazing resources for adversarial examples in deep learning
 
+## Cite this work
+If you find this list useful for academic research, we would appreciate citations for our survey paper:
+~~~~ 
+@article{yuan2017adversarial,
+  title={Adversarial Examples: Attacks and Defenses for Deep Learning},
+  author={Xiaoyong Yuan, Pan He, Qile Zhu, Rajendra Rana Bhat, Xiaolin Li},
+  journal={arXiv preprint arXiv:1712.07107},
+  year={2017}
+}
+~~~~ 
 
 ## Adversarial Examples for Machine Learning
 - [The security of machine learning](https://link.springer.com/article/10.1007%2Fs10994-010-5188-5?LI=true) Barreno, Marco, et al. Machine Learning 81.2 (2010): 121-148.
@@ -117,13 +127,3 @@ A list of amazing resources for adversarial examples in deep learning
 - [cleverhans v2.0.0: an adversarial machine learning library](https://arxiv.org/abs/1610.00768) Papernot, Nicolas, et al. arXiv preprint arXiv:1610.00768 (2017).
 
 
-## Cite this work
-If you find this list useful for academic research, we would appreciate citations for our survey paper:
-~~~~ 
-@article{yuan2017adversarial,
-  title={Adversarial Examples: Attacks and Defenses for Deep Learning},
-  author={Xiaoyong Yuan, Pan He, Qile Zhu, Rajendra Rana Bhat, Xiaolin Li},
-  journal={arXiv preprint arXiv:1712.07107},
-  year={2017}
-}
-~~~~ 
